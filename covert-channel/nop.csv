@@ -1,0 +1,2 @@
+covert_channel: ../src/measurement.c:55: init_measurement: Assertion `fd > 0' failed.
+Aborted (core dumped)
