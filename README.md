@@ -1,4 +1,4 @@
-# BZA project
+# Platypus re-creation project
 
 It is a copy of [Platypus](https://platypusattack.com/) side channel attack. We focus on analysing different instruction for covert channel communication.
 
